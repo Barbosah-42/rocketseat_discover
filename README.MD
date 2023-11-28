@@ -2,7 +2,7 @@
           
 <h1>Rocketseat | Discover</h1>
 
-<img src="./assets/img/hero.webp" style="width: 500px" alt=""/>
+<center><img src="./assets/img/hero.webp" style="width: 500px" alt=""/></center>
 
 ## 🚀 Tecnologias
 
