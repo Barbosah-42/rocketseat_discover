@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-<h1>Rocketseat | Discover</h1>
+<center><h1>Rocketseat | Discover</h1></center>
 
-<img src="./assets/img/hero.webp" style="width: 500px" alt=""/>
+<img src="./assets/img/hero.webp" style="width: 500px; text-align: center" alt=""/>
 
 ## 🚀 Tecnologias
 
