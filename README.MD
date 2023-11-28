@@ -20,8 +20,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="width:25px" alt:Figma/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="width:25px" alt:Figma/>
+          
+<img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" style="width:25px" alt:Figma/>
 
 </div>
 
@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto é um agregador de links para usar como cartão de visitas online, com tema claor e esturo.
+Esse projeto é um agregador de links para usar como cartão de visitas online, com tema claro e escuro.
 
 ## 🖼️ Layout
 
