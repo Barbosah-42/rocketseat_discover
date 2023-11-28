@@ -18,10 +18,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width:25px" alt:Git/>
 
+<img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" style="width:25px" alt:Github/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="width:25px" alt:Figma/>
           
-<img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" style="width:25px" alt:Figma/>
 
 </div>
 
