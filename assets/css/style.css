@@ -33,6 +33,7 @@ body{
     */
     /*background: color image repeat position/size */
     background: var(--bg-url) no-repeat top center/cover;
+    height: 100vh;
 }
 
 body *{
@@ -168,4 +169,16 @@ ul li a{
 ul li a:hover{
     background: var(--surface-color-hover);
     border: 1.5px solid var(--text-color);
+}
+
+/* media queries */
+
+@media (min-width: 700px) {
+     :root {
+        --bg-url: url(../img/bg-desktop.jpg);
+     }
+
+     .light {
+        --bg-url: url(../img/bg-mobile-light.jpg);
+     }
 }
